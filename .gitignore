@@ -28,12 +28,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Статические файлы
-static/
-
-# Файлы данных
-quest_data.json
-
 # IDE
 .vscode/
 .idea/
